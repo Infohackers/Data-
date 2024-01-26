@@ -29,7 +29,7 @@ This tool is a collection of **penetration testing** and **information gathering
 
 Instructions on how to install *PentestBox*
 ```
-git clone https://github.com/B4rC0d/PentestBox.git
+git clone https://github.com/infohacker/PentestBox.git
 ```
 Go to the directory
 ```
